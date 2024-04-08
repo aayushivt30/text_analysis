@@ -9,3 +9,7 @@ This repository deals with analysis of feedbacks from customer
 3.Intial number of feedbacks were : 15,120 after preprocessing : 14,575 saved to finalized_data.csv
 
 4.KNN is performed with K=3,5,7
+
+5. Ship-wise distribution is conducted and analysed using word cloud
+
+6. text analysis is done using VADER and roberta model and compared. Roberta is more efficient and gives more accurate results than vader.  
