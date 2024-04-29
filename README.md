@@ -6,7 +6,7 @@ This repository deals with analysis of feedbacks from customer
 
 2.Removing special characters,numbers and blank rows is done in remove_charaters.ipynb
 
-3.Intial number of feedbacks were : 15,120 after preprocessing : 14,575 saved to finalized_data.csv
+3.Intial number of feedbacks were : 15,120 after preprocessing : 14,572 saved to finalized_data.csv
 
 4.KNN is performed with K=3,5,7
 
